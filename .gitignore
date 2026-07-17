@@ -221,3 +221,4 @@ __marimo__/
 # MyFile
 *.docx
 .vscode
+.DS_Store
