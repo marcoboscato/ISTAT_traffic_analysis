@@ -222,3 +222,4 @@ __marimo__/
 *.docx
 .vscode
 .DS_Store
+test_notebook/
